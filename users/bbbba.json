@@ -1,0 +1,18 @@
+{
+    "keys": [
+        {
+            "key": "aa",
+            "expiresAt": "2028-09-29T22:33",
+            "maxUsage": 1,
+            "maxIPs": 3,
+            "allowedIPs": [
+                "127.0.0.1"
+            ],
+            "currentUsage": 1,
+            "description": "",
+            "owner": "Admin",
+            "isActive": true,
+            "createdAt": "2025-09-29 19:33:13"
+        }
+    ]
+}
